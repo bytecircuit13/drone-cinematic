@@ -15,7 +15,7 @@ export default function CanvasBackground() {
         START_FRAME,
         END_FRAME,
         "/sequence-01",
-        "Sequence 0",
+        "Sequence0",
         ".jpg"
     );
 
