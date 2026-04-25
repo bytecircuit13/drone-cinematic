@@ -1,0 +1,7 @@
+node_modules
+.next
+.git
+*.md
+testsprite_tests
+testsprite_docs
+.testsprite
